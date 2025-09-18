@@ -1,1 +1,3 @@
 -----One of the important question.
+There are two solutions for this question. 1. Brute Force 2. Optimize
+1. Brute force Solution: If we sort the array of string, it'll sort the the string alphabetically. So we can compare first and last string's charecters. If it matches then we will store the characteer.
